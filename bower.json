@@ -1,0 +1,18 @@
+{
+  "name": "hamburger-builder-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.0",
+    "purescript-console": "^3.0.0",
+    "purescript-indexed-monad": "^0.2.0",
+    "purescript-arrays": "^4.1.2"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
